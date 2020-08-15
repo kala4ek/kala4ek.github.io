@@ -71,7 +71,7 @@ window.onload = function() {
     personElement.innerHTML = person + ' скажет';
 
     var photoElement = document.getElementById('photo');
-    photoElement.style.backgroundImage = 'url("images/' + person + '.jpg")';
+    photoElement.style.backgroundImage = 'url("/images/' + person + '.jpg")';
 
     var colors = [1,2,3,4,5,6,7,8,9,10,11];
     var color = colors[Math.floor(Math.random() * colors.length)];
