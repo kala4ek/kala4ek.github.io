@@ -1,5 +1,5 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300&subset=latin,cyrillic);
-@import url(//fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
 
 * {
     margin: 0;
@@ -149,41 +149,4 @@ h1 a:hover {
     h1 a {
         padding: 23px 0 10px 0;
     }
-}
-
-.bg1 {
-    background-color: #9C5C5B;
-}
-.bg2 {
-    background-color: #2B3E50;
-}
-.bg3 {
-    background-color: #5F586B;
-}
-.bg4 {
-    background-color: #00819E;
-}
-.bg5 {
-    background-color: #9B4C71;
-}
-.bg6 {
-    background-color: #769D93;
-}
-.bg7 {
-    background-color: #683136;
-}
-.bg8 {
-    background-color: #28795D;
-}
-.bg9 {
-    background-color: #828B3C;
-}
-.bg10 {
-    background-color: #457698;
-}
-.bg10 {
-    background-color: #457698;
-}
-.bg11 {
-    background-color: #764572;
 }
